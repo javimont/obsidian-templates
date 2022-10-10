@@ -1,7 +1,8 @@
 Tema: {{title}}
-Fecha: {{date:MMM d, YYYY}}
+Fecha: {{date:DD-MM-YYYY}}
 Curso:
 Class:
+URL:
 
 ---
 
