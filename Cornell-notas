@@ -1,18 +1,18 @@
 Tema: {{title}}
 Fecha: {{date:DD-MM-YYYY}}
 Curso:
-Class:
+Clase-tag:
 URL:
-
----
-
-## Ideas Claves
-- Item
 
 ---
 ## Notas
 - Item
 
 ---
+## Ideas Claves
+- Item
+
+---
+
 ## Resumen
 Subrayar ==Lo que sea importante!==
